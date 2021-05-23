@@ -1,0 +1,1 @@
+int answer_to_all_questions();
