@@ -8,6 +8,7 @@
 	"extensions": [
 		"ms-python.python",
 		"ms-python.vscode-pylance",
-		"ms-vscode.cpptools"
+		"ms-vscode.cpptools",
+		"bungcip.better-toml"
 	],
 }
