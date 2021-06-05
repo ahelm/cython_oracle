@@ -9,12 +9,12 @@ Cython.
 To build and run the tests, use
 
 ```shell
-make test
+make
 ```
 
 This project has following dependencies
 
-recent version of a compiler
-python
+- Recent version of a C compiler
+- Python
 
 All other dependencies should be installed automatically.
