@@ -163,3 +163,6 @@ Thumbs.db
 
 ## Project settings
 .vscode
+
+## ignore C files in project directory
+cython_oracle/oracle.c
